@@ -1,0 +1,17 @@
+h1{
+    color: coral;
+    text-align: center;
+    font-style: italic;
+}
+h6{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    border-radius: 50%;
+}
+#header{
+color: darkgreen;
+}
+.wraper{
+    color: maroon;
+}
